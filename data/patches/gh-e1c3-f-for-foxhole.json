@@ -1,0 +1,40 @@
+{
+	"id": 3126,
+	"name": "F for Foxhole",
+	"description": "These dots represent the last remnants of Foxhole who were nuked from the canvas",
+	"links": {
+		"subreddit": [
+			"foxholegame"
+		]
+	},
+	"path": {
+		"250-258": [
+			[
+				-140,
+				-26
+			],
+			[
+				-133,
+				-26
+			],
+			[
+				-133,
+				-15
+			],
+			[
+				-140,
+				-15
+			],
+			[
+				-140,
+				-18
+			]
+		]
+	},
+	"center": {
+		"250-258": [
+			-136,
+			-20
+		]
+	}
+}
